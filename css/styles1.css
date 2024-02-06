@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 100px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+
+.banner{
+    height: 500px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    }
+
+    .about_image{
+        width: 50%;
+        height: 400px;
+        background-color: chartreuse;
+        text-align: center;
+    }
+
+    .about_content{
+        width: 50%;
+        height: 400px;
+        background-color: crimson;
+        text-align: center;
+    }
+
+    .about, .service, .work {
+        display: flex;
+    }
+
+    .service_one{
+        width: 33.3%;
+        height: 300px;
+        background-color: darkmagenta;
+        color: white;
+        text-align: center;
+    }
+
+    .service_two{
+        width: 33.3%;
+        height: 300px;
+        background-color: goldenrod;
+        color: white;
+        text-align: center;
+
+    }
+
+    .service_three{
+        width: 33.3%;
+        height: 300px;
+        background-color: yellow;
+        color: black;
+        text-align: center;
+
+    }
+
+    .work_one{
+                width: 25%;
+                height: 300px;
+                background-color: hotpink;
+                color: black;
+                text-align: center;
+    }
+    .work_two{
+        width: 25%;
+        height: 300px;
+        background-color: green;
+        color: black;
+        text-align: center;
+    }
+    .work_three{
+        width: 25%;
+        height: 300px;
+        background-color: blue;
+        color: white;
+        text-align: center;
+    }
+    .work_four{
+        width: 25%;
+        height: 300px;
+        background-color: burlywood;
+        color: black;
+        text-align: center;
+    }
+
+    .footer{
+        width: auto;
+        height: auto;
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
